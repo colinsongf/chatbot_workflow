@@ -1,2 +1,2 @@
-# seq2seq
-my seq2seq model  record. 我的seq2seq模型记录
+# chatbot_workflow
+my chat model work record. 我的对话模型工作记录
